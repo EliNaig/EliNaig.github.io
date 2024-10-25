@@ -6,9 +6,9 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
-# Basic Site Settings
+# Basic Site Setting
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Eli Naig / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
